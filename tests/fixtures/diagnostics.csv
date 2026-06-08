@@ -1,0 +1,3 @@
+step,time,liquid_com_x,liquid_com_y,liquid_com_z,liquid_volume,particle_x,particle_y,particle_z,particle_vx,particle_vy,particle_vz,takeoff
+0,0,80,48,21,90000,80,48,23,0,0,0,0
+20,1,80,48,25,90000,80,48,28,0,0,1,1
